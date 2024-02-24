@@ -28,17 +28,11 @@ In order to run this project you need:
 <details>
 <summary>Hidden Search bar</summary>
 <p>Hidden Search Bar discreetly expands upon toggling, seamlessly integrating a sleek and intuitive search feature into interfaces, enhancing user accessibility and experience.</p>
-<ul>
-<li><a href="https://avishekghosh.github.io/HTML-CSS-JavaScript/HiddenSearchButton/">Live Demo</a></li>
-</ul> 
 </details>
 </li>
 <li>
 <details>
 <summary>Scrolling Animation</summary>
 <p>"Scroll Animation" is a dynamic project that imbues scrolling web pages with captivating animation effects, elevating the user experience through visually engaging content transitions triggered by scrolling actions.</p>
-<ul>
-<li><a href="https://tajulafreen.github.io/50Projects-HTML-CSS-JavaScript/Source-Code/ScrollAnimation/">Live Demo</a></li>
-</ul> 
 </details>
 </li>
