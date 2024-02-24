@@ -29,7 +29,7 @@ In order to run this project you need:
 <summary>Hidden Search bar</summary>
 <p>Hidden Search Bar discreetly expands upon toggling, seamlessly integrating a sleek and intuitive search feature into interfaces, enhancing user accessibility and experience.</p>
 <ul>
-<li><a href="https://tajulafreen.github.io/50Projects-HTML-CSS-JavaScript/Source-Code/HiddenSearch/">Live Demo</a></li>
+<li><a href="https://avishekghosh.github.io/HTML-CSS-JavaScript/HiddenSearchButton/">Live Demo</a></li>
 </ul> 
 </details>
 </li>
