@@ -26,7 +26,7 @@ In order to run this project you need:
   </ul>
   
 <h3>Hidden Search bar</h3>
-<p>Hidden Search Bar discreetly expands upon toggling, seamlessly integrating a sleek and intuitive search feature into interfaces, enhancing user accessibility and experience.</p><br>
+<p>Hidden Search Bar discreetly expands upon toggling, seamlessly integrating a sleek and intuitive search feature into interfaces, enhancing user accessibility and experience.</p>
 <h3>Scrolling Animation</h3>
 <p>"Scroll Animation" is a dynamic project that imbues scrolling web pages with captivating animation effects, elevating the user experience through visually engaging content transitions triggered by scrolling actions.</p>
 <h3>Form Wave Animation</h3>
