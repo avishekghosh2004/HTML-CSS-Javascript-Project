@@ -29,3 +29,7 @@ In order to run this project you need:
 <p>Hidden Search Bar discreetly expands upon toggling, seamlessly integrating a sleek and intuitive search feature into interfaces, enhancing user accessibility and experience.</p><br>
 <h3>Scrolling Animation</h3>
 <p>"Scroll Animation" is a dynamic project that imbues scrolling web pages with captivating animation effects, elevating the user experience through visually engaging content transitions triggered by scrolling actions.</p>
+<h3>Form Wave Animation</h3>
+<p>Enhancing user interaction, this form features dynamic label animations with a mesmerizing wave effect, complemented by a gradient background for a stylish and immersive visual experience.</p>
+<h3>Rotating Navigation</h3>
+<p>"Rotating Navigation" is a dynamic project where clicking the menu bar triggers a 45-degree screen rotation, offering an engaging and unique user experience through interactive navigation.</p>
