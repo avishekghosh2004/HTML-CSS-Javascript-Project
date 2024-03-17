@@ -33,3 +33,5 @@ In order to run this project you need:
 <p>Enhancing user interaction, this form features dynamic label animations with a mesmerizing wave effect, complemented by a gradient background for a stylish and immersive visual experience.</p>
 <h3>Rotating Navigation</h3>
 <p>"Rotating Navigation" is a dynamic project where clicking the menu bar triggers a 45-degree screen rotation, offering an engaging and unique user experience through interactive navigation.</p>
+<h3>Background Color Changer </h3>
+<p>"Background Color Changer" is a project where clicking the change color button the background color will change randomly.</p>
